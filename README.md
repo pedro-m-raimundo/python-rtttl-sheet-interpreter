@@ -1,2 +1,2 @@
-# RTTTL Sheet Interpreter on Python
-RTTTL music sheet Interpreter
+# RTTTL Music Sheet Interpreter
+RTTTL music sheet Interpreter on Python
